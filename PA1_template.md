@@ -1,7 +1,7 @@
 # Reproducible Research -> Peer Assessment
 Student of Reproducible Research Coursera Course  
 Wednesday, May 13, 2015  
-# Revised again 13/06/2015
+Revised again 13/06/2015
 
 ## Loading and preprocessing the data (Used Windows 7 as OS)
 1.  Getting the data from the web location indicated
